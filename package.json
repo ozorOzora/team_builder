@@ -1,0 +1,15 @@
+{
+  "name": "team_builder",
+  "version": "1.0.0",
+  "description": "Allows a host to make a team, and a user to join the team",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no yoooooooo test specified\" && exit 1"
+  },
+  "author": "Ozora",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
